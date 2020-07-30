@@ -1,0 +1,217 @@
+1596054717067	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/89/c6j4j_v92c98wtl_6wx4g9kc0000gn/T/rust_mozprofile.kSo979TDO4eF"
+1596054718196	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596054718489	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596054718490	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596054718490	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596054718490	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596054721420	Marionette	INFO	Listening on port 56850
+1596054721509	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596054809216	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/89/c6j4j_v92c98wtl_6wx4g9kc0000gn/T/rust_mozprofile.y3Bc2WGtwQo4"
+1596054809857	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596054810165	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596054810165	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596054810165	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596054810165	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596054812569	Marionette	INFO	Listening on port 57501
+1596054812644	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596054903033	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/89/c6j4j_v92c98wtl_6wx4g9kc0000gn/T/rust_mozprofile.XJCeTsOmLhDj"
+1596054903691	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596054904058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596054904058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596054904059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596054904059	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596054906768	Marionette	INFO	Listening on port 58079
+1596054906796	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character
+1596055207409	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/89/c6j4j_v92c98wtl_6wx4g9kc0000gn/T/rust_mozprofile.Z4fiQD88zRmS"
+1596055208341	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596055208668	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596055208668	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596055208668	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596055208668	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596055212366	Marionette	INFO	Listening on port 58836
+1596055212454	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2uap9jskdzp2.cloudfront.net/script.js, line 1: Script terminated by timeout at:
+d@https://d2uap9jskdzp2.cloudfront.net/script.js:1:15687
+cI@https://d2uap9jskdzp2.cloudfront.net/script.js:1:77178
+cL/<@https://d2uap9jskdzp2.cloudfront.net/script.js:1:79675
+
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1596055551252	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/89/c6j4j_v92c98wtl_6wx4g9kc0000gn/T/rust_mozprofile.QCWyt7s22mjY"
+1596055552367	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596055552638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596055552638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596055552639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596055552639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596055555372	Marionette	INFO	Listening on port 59504
+1596055555392	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://kairoscs.com/, line 772: TypeError: $ is not a function
+1596055620465	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/89/c6j4j_v92c98wtl_6wx4g9kc0000gn/T/rust_mozprofile.QuGJEi1IObHe"
+1596055621260	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596055621554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596055621554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596055621554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596055621554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596055624638	Marionette	INFO	Listening on port 59671
+1596055624726	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://kairoscs.com/, line 772: TypeError: $ is not a function
+1596055663294	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/89/c6j4j_v92c98wtl_6wx4g9kc0000gn/T/rust_mozprofile.QPMISt9NRfEz"
+1596055664124	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596055664544	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596055664544	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596055664545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596055664545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596055667850	Marionette	INFO	Listening on port 59822
+1596055667940	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596056065987	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/89/c6j4j_v92c98wtl_6wx4g9kc0000gn/T/rust_mozprofile.EU5SoAEp9Itu"
+1596056067240	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596056067566	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596056067566	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596056067566	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596056067566	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596056071207	Marionette	INFO	Listening on port 60539
+1596056071245	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596056292872	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/89/c6j4j_v92c98wtl_6wx4g9kc0000gn/T/rust_mozprofile.UweFpyI1Tbwm"
+1596056294702	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596056295963	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596056295963	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596056295964	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596056295964	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596056302619	Marionette	INFO	Listening on port 61286
+1596056302678	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380128,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380128,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380128,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1596056480306	Marionette	INFO	Stopped listening on port 60539
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1596056482961	Marionette	INFO	Stopped listening on port 59822
+1596056486706	Marionette	INFO	Stopped listening on port 59671
+1596056490505	Marionette	INFO	Stopped listening on port 59504
+1596056493581	Marionette	INFO	Stopped listening on port 58836
+1596056497974	Marionette	INFO	Stopped listening on port 58079
+1596056758582	Marionette	INFO	Stopped listening on port 57501
+1596062724854	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/89/c6j4j_v92c98wtl_6wx4g9kc0000gn/T/rust_mozprofile.A4GglAXxlaCQ"
+1596062725443	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596062725718	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596062725719	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596062725719	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596062725719	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596062727882	Marionette	INFO	Listening on port 64564
+1596062727978	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cnn.com/.asset/2.226.0/js/chunks/50-9c4044b68b94769d3700.min.js, line 1: TypeError: e is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.0.0/otBannerSdk.js, line 7: NetworkError: A network error occurred.
+1596074563943	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/89/c6j4j_v92c98wtl_6wx4g9kc0000gn/T/rust_mozprofile.SdSCbDSlqbcq"
+1596074564813	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596074565093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596074565093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596074565093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596074565093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596074567134	Marionette	INFO	Listening on port 50128
+1596074567216	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596074582037	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/89/c6j4j_v92c98wtl_6wx4g9kc0000gn/T/rust_mozprofile.KGpiepXhpX6G"
+1596074582716	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596074583028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596074583028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596074583028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596074583028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596074584973	Marionette	INFO	Listening on port 50690
+1596074585035	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596077949905	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/89/c6j4j_v92c98wtl_6wx4g9kc0000gn/T/rust_mozprofile.jAw3FUbJZIPa"
+1596077950580	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596077950865	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596077950865	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596077950865	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596077950865	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596077952869	Marionette	INFO	Listening on port 53035
+1596077952884	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596077989299	Marionette	INFO	Stopped listening on port 53035
+1596119507136	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/89/c6j4j_v92c98wtl_6wx4g9kc0000gn/T/rust_mozprofile.Lb52EZXX4QAW"
+1596119507841	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596119508376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596119508376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596119508376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596119508376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596119511199	Marionette	INFO	Listening on port 52595
+1596119511267	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ads.jetpackdigital.com/lineitems/48373/0/jpdli.js?u=https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjssI1kmrRuIxiIIq5C1_G8VD16PmOBUK7vlIJOlIPxTG8e5YZLL4Bvb020wmzE0tXMoWX9St0HIoOHVMXYiFvCw3FQ0LlHNhBrMVUwbVjnbOagUUo0TafUvkIUo2xlryFDK0RmBsi-1pYaDp46Y3d_TZnO8TvpA6ZaKstIdahWMqxqtXL7b55I2G1j1F5aAyVW52BdLjcmjV9pJNc3FDn_kg268wjX5eyTPqecBYcSqm8Y9ZCSfadmZ08GHW8Q%2526sai%253DAMfl-YTnbvBaXIX3-wcuDwpfeM8gDTFYxikZoAT6ARvboVBoLNdG-D6vYaWlB0-9xuMAJt3aV7-rr85Vz1smiOY_nIqW3ub20r7Ryd4R5uTR0mejlywYvQuM80endeYf-pM%2526sig%253DCg0ArKJSzEgumBcl624CEAE%2526urlfix%253D1%2526adurl%253Dhttps://www.tntdrama.com/nba-on-tnt?cid=Digital-Portfolio_NBA-on-TNT-Restart_2020_CNN-HPTO&source=Digital-Portfolio&campaign=NBA-on-TNT-Restart_2020_CNN-HPTO&sid=1006, line 9691: unreachable code after return statement
+JavaScript warning: https://ads.jetpackdigital.com/lineitems/48373/0/jpdli.js?u=https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjssI1kmrRuIxiIIq5C1_G8VD16PmOBUK7vlIJOlIPxTG8e5YZLL4Bvb020wmzE0tXMoWX9St0HIoOHVMXYiFvCw3FQ0LlHNhBrMVUwbVjnbOagUUo0TafUvkIUo2xlryFDK0RmBsi-1pYaDp46Y3d_TZnO8TvpA6ZaKstIdahWMqxqtXL7b55I2G1j1F5aAyVW52BdLjcmjV9pJNc3FDn_kg268wjX5eyTPqecBYcSqm8Y9ZCSfadmZ08GHW8Q%2526sai%253DAMfl-YTnbvBaXIX3-wcuDwpfeM8gDTFYxikZoAT6ARvboVBoLNdG-D6vYaWlB0-9xuMAJt3aV7-rr85Vz1smiOY_nIqW3ub20r7Ryd4R5uTR0mejlywYvQuM80endeYf-pM%2526sig%253DCg0ArKJSzEgumBcl624CEAE%2526urlfix%253D1%2526adurl%253Dhttps://www.tntdrama.com/nba-on-tnt?cid=Digital-Portfolio_NBA-on-TNT-Restart_2020_CNN-HPTO&source=Digital-Portfolio&campaign=NBA-on-TNT-Restart_2020_CNN-HPTO&sid=1006, line 11732: unreachable code after return statement
+JavaScript warning: https://ads.jetpackdigital.com/lineitems/48373/0/jpdli.js?u=https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjssI1kmrRuIxiIIq5C1_G8VD16PmOBUK7vlIJOlIPxTG8e5YZLL4Bvb020wmzE0tXMoWX9St0HIoOHVMXYiFvCw3FQ0LlHNhBrMVUwbVjnbOagUUo0TafUvkIUo2xlryFDK0RmBsi-1pYaDp46Y3d_TZnO8TvpA6ZaKstIdahWMqxqtXL7b55I2G1j1F5aAyVW52BdLjcmjV9pJNc3FDn_kg268wjX5eyTPqecBYcSqm8Y9ZCSfadmZ08GHW8Q%2526sai%253DAMfl-YTnbvBaXIX3-wcuDwpfeM8gDTFYxikZoAT6ARvboVBoLNdG-D6vYaWlB0-9xuMAJt3aV7-rr85Vz1smiOY_nIqW3ub20r7Ryd4R5uTR0mejlywYvQuM80endeYf-pM%2526sig%253DCg0ArKJSzEgumBcl624CEAE%2526urlfix%253D1%2526adurl%253Dhttps://www.tntdrama.com/nba-on-tnt?cid=Digital-Portfolio_NBA-on-TNT-Restart_2020_CNN-HPTO&source=Digital-Portfolio&campaign=NBA-on-TNT-Restart_2020_CNN-HPTO&sid=1006, line 11746: unreachable code after return statement
+JavaScript warning: https://ads.jetpackdigital.com/lineitems/48373/0/jpdli.js?u=https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjssI1kmrRuIxiIIq5C1_G8VD16PmOBUK7vlIJOlIPxTG8e5YZLL4Bvb020wmzE0tXMoWX9St0HIoOHVMXYiFvCw3FQ0LlHNhBrMVUwbVjnbOagUUo0TafUvkIUo2xlryFDK0RmBsi-1pYaDp46Y3d_TZnO8TvpA6ZaKstIdahWMqxqtXL7b55I2G1j1F5aAyVW52BdLjcmjV9pJNc3FDn_kg268wjX5eyTPqecBYcSqm8Y9ZCSfadmZ08GHW8Q%2526sai%253DAMfl-YTnbvBaXIX3-wcuDwpfeM8gDTFYxikZoAT6ARvboVBoLNdG-D6vYaWlB0-9xuMAJt3aV7-rr85Vz1smiOY_nIqW3ub20r7Ryd4R5uTR0mejlywYvQuM80endeYf-pM%2526sig%253DCg0ArKJSzEgumBcl624CEAE%2526urlfix%253D1%2526adurl%253Dhttps://www.tntdrama.com/nba-on-tnt?cid=Digital-Portfolio_NBA-on-TNT-Restart_2020_CNN-HPTO&source=Digital-Portfolio&campaign=NBA-on-TNT-Restart_2020_CNN-HPTO&sid=1006, line 13001: unreachable code after return statement
+JavaScript warning: https://ads.jetpackdigital.com/lineitems/48373/0/jpdli.js?u=https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjssI1kmrRuIxiIIq5C1_G8VD16PmOBUK7vlIJOlIPxTG8e5YZLL4Bvb020wmzE0tXMoWX9St0HIoOHVMXYiFvCw3FQ0LlHNhBrMVUwbVjnbOagUUo0TafUvkIUo2xlryFDK0RmBsi-1pYaDp46Y3d_TZnO8TvpA6ZaKstIdahWMqxqtXL7b55I2G1j1F5aAyVW52BdLjcmjV9pJNc3FDn_kg268wjX5eyTPqecBYcSqm8Y9ZCSfadmZ08GHW8Q%2526sai%253DAMfl-YTnbvBaXIX3-wcuDwpfeM8gDTFYxikZoAT6ARvboVBoLNdG-D6vYaWlB0-9xuMAJt3aV7-rr85Vz1smiOY_nIqW3ub20r7Ryd4R5uTR0mejlywYvQuM80endeYf-pM%2526sig%253DCg0ArKJSzEgumBcl624CEAE%2526urlfix%253D1%2526adurl%253Dhttps://www.tntdrama.com/nba-on-tnt?cid=Digital-Portfolio_NBA-on-TNT-Restart_2020_CNN-HPTO&source=Digital-Portfolio&campaign=NBA-on-TNT-Restart_2020_CNN-HPTO&sid=1006, line 15042: unreachable code after return statement
+JavaScript warning: https://ads.jetpackdigital.com/lineitems/48373/0/jpdli.js?u=https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjssI1kmrRuIxiIIq5C1_G8VD16PmOBUK7vlIJOlIPxTG8e5YZLL4Bvb020wmzE0tXMoWX9St0HIoOHVMXYiFvCw3FQ0LlHNhBrMVUwbVjnbOagUUo0TafUvkIUo2xlryFDK0RmBsi-1pYaDp46Y3d_TZnO8TvpA6ZaKstIdahWMqxqtXL7b55I2G1j1F5aAyVW52BdLjcmjV9pJNc3FDn_kg268wjX5eyTPqecBYcSqm8Y9ZCSfadmZ08GHW8Q%2526sai%253DAMfl-YTnbvBaXIX3-wcuDwpfeM8gDTFYxikZoAT6ARvboVBoLNdG-D6vYaWlB0-9xuMAJt3aV7-rr85Vz1smiOY_nIqW3ub20r7Ryd4R5uTR0mejlywYvQuM80endeYf-pM%2526sig%253DCg0ArKJSzEgumBcl624CEAE%2526urlfix%253D1%2526adurl%253Dhttps://www.tntdrama.com/nba-on-tnt?cid=Digital-Portfolio_NBA-on-TNT-Restart_2020_CNN-HPTO&source=Digital-Portfolio&campaign=NBA-on-TNT-Restart_2020_CNN-HPTO&sid=1006, line 15056: unreachable code after return statement
+JavaScript warning: https://ads.jetpackdigital.com/lineitems/48373/0/jpdli.js?u=https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjssI1kmrRuIxiIIq5C1_G8VD16PmOBUK7vlIJOlIPxTG8e5YZLL4Bvb020wmzE0tXMoWX9St0HIoOHVMXYiFvCw3FQ0LlHNhBrMVUwbVjnbOagUUo0TafUvkIUo2xlryFDK0RmBsi-1pYaDp46Y3d_TZnO8TvpA6ZaKstIdahWMqxqtXL7b55I2G1j1F5aAyVW52BdLjcmjV9pJNc3FDn_kg268wjX5eyTPqecBYcSqm8Y9ZCSfadmZ08GHW8Q%2526sai%253DAMfl-YTnbvBaXIX3-wcuDwpfeM8gDTFYxikZoAT6ARvboVBoLNdG-D6vYaWlB0-9xuMAJt3aV7-rr85Vz1smiOY_nIqW3ub20r7Ryd4R5uTR0mejlywYvQuM80endeYf-pM%2526sig%253DCg0ArKJSzEgumBcl624CEAE%2526urlfix%253D1%2526adurl%253Dhttps://www.tntdrama.com/nba-on-tnt?cid=Digital-Portfolio_NBA-on-TNT-Restart_2020_CNN-HPTO&source=Digital-Portfolio&campaign=NBA-on-TNT-Restart_2020_CNN-HPTO&sid=1006, line 16311: unreachable code after return statement
+JavaScript warning: https://ads.jetpackdigital.com/lineitems/48373/0/jpdli.js?u=https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjssI1kmrRuIxiIIq5C1_G8VD16PmOBUK7vlIJOlIPxTG8e5YZLL4Bvb020wmzE0tXMoWX9St0HIoOHVMXYiFvCw3FQ0LlHNhBrMVUwbVjnbOagUUo0TafUvkIUo2xlryFDK0RmBsi-1pYaDp46Y3d_TZnO8TvpA6ZaKstIdahWMqxqtXL7b55I2G1j1F5aAyVW52BdLjcmjV9pJNc3FDn_kg268wjX5eyTPqecBYcSqm8Y9ZCSfadmZ08GHW8Q%2526sai%253DAMfl-YTnbvBaXIX3-wcuDwpfeM8gDTFYxikZoAT6ARvboVBoLNdG-D6vYaWlB0-9xuMAJt3aV7-rr85Vz1smiOY_nIqW3ub20r7Ryd4R5uTR0mejlywYvQuM80endeYf-pM%2526sig%253DCg0ArKJSzEgumBcl624CEAE%2526urlfix%253D1%2526adurl%253Dhttps://www.tntdrama.com/nba-on-tnt?cid=Digital-Portfolio_NBA-on-TNT-Restart_2020_CNN-HPTO&source=Digital-Portfolio&campaign=NBA-on-TNT-Restart_2020_CNN-HPTO&sid=1006, line 18352: unreachable code after return statement
+JavaScript warning: https://ads.jetpackdigital.com/lineitems/48373/0/jpdli.js?u=https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjssI1kmrRuIxiIIq5C1_G8VD16PmOBUK7vlIJOlIPxTG8e5YZLL4Bvb020wmzE0tXMoWX9St0HIoOHVMXYiFvCw3FQ0LlHNhBrMVUwbVjnbOagUUo0TafUvkIUo2xlryFDK0RmBsi-1pYaDp46Y3d_TZnO8TvpA6ZaKstIdahWMqxqtXL7b55I2G1j1F5aAyVW52BdLjcmjV9pJNc3FDn_kg268wjX5eyTPqecBYcSqm8Y9ZCSfadmZ08GHW8Q%2526sai%253DAMfl-YTnbvBaXIX3-wcuDwpfeM8gDTFYxikZoAT6ARvboVBoLNdG-D6vYaWlB0-9xuMAJt3aV7-rr85Vz1smiOY_nIqW3ub20r7Ryd4R5uTR0mejlywYvQuM80endeYf-pM%2526sig%253DCg0ArKJSzEgumBcl624CEAE%2526urlfix%253D1%2526adurl%253Dhttps://www.tntdrama.com/nba-on-tnt?cid=Digital-Portfolio_NBA-on-TNT-Restart_2020_CNN-HPTO&source=Digital-Portfolio&campaign=NBA-on-TNT-Restart_2020_CNN-HPTO&sid=1006, line 18366: unreachable code after return statement
+JavaScript warning: https://ads.jetpackdigital.com/lineitems/48373/0/jpdli.js?u=https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjssI1kmrRuIxiIIq5C1_G8VD16PmOBUK7vlIJOlIPxTG8e5YZLL4Bvb020wmzE0tXMoWX9St0HIoOHVMXYiFvCw3FQ0LlHNhBrMVUwbVjnbOagUUo0TafUvkIUo2xlryFDK0RmBsi-1pYaDp46Y3d_TZnO8TvpA6ZaKstIdahWMqxqtXL7b55I2G1j1F5aAyVW52BdLjcmjV9pJNc3FDn_kg268wjX5eyTPqecBYcSqm8Y9ZCSfadmZ08GHW8Q%2526sai%253DAMfl-YTnbvBaXIX3-wcuDwpfeM8gDTFYxikZoAT6ARvboVBoLNdG-D6vYaWlB0-9xuMAJt3aV7-rr85Vz1smiOY_nIqW3ub20r7Ryd4R5uTR0mejlywYvQuM80endeYf-pM%2526sig%253DCg0ArKJSzEgumBcl624CEAE%2526urlfix%253D1%2526adurl%253Dhttps://www.tntdrama.com/nba-on-tnt?cid=Digital-Portfolio_NBA-on-TNT-Restart_2020_CNN-HPTO&source=Digital-Portfolio&campaign=NBA-on-TNT-Restart_2020_CNN-HPTO&sid=1006, line 19621: unreachable code after return statement
+JavaScript warning: https://ads.jetpackdigital.com/lineitems/48373/0/jpdli.js?u=https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjssI1kmrRuIxiIIq5C1_G8VD16PmOBUK7vlIJOlIPxTG8e5YZLL4Bvb020wmzE0tXMoWX9St0HIoOHVMXYiFvCw3FQ0LlHNhBrMVUwbVjnbOagUUo0TafUvkIUo2xlryFDK0RmBsi-1pYaDp46Y3d_TZnO8TvpA6ZaKstIdahWMqxqtXL7b55I2G1j1F5aAyVW52BdLjcmjV9pJNc3FDn_kg268wjX5eyTPqecBYcSqm8Y9ZCSfadmZ08GHW8Q%2526sai%253DAMfl-YTnbvBaXIX3-wcuDwpfeM8gDTFYxikZoAT6ARvboVBoLNdG-D6vYaWlB0-9xuMAJt3aV7-rr85Vz1smiOY_nIqW3ub20r7Ryd4R5uTR0mejlywYvQuM80endeYf-pM%2526sig%253DCg0ArKJSzEgumBcl624CEAE%2526urlfix%253D1%2526adurl%253Dhttps://www.tntdrama.com/nba-on-tnt?cid=Digital-Portfolio_NBA-on-TNT-Restart_2020_CNN-HPTO&source=Digital-Portfolio&campaign=NBA-on-TNT-Restart_2020_CNN-HPTO&sid=1006, line 21662: unreachable code after return statement
+JavaScript warning: https://ads.jetpackdigital.com/lineitems/48373/0/jpdli.js?u=https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjssI1kmrRuIxiIIq5C1_G8VD16PmOBUK7vlIJOlIPxTG8e5YZLL4Bvb020wmzE0tXMoWX9St0HIoOHVMXYiFvCw3FQ0LlHNhBrMVUwbVjnbOagUUo0TafUvkIUo2xlryFDK0RmBsi-1pYaDp46Y3d_TZnO8TvpA6ZaKstIdahWMqxqtXL7b55I2G1j1F5aAyVW52BdLjcmjV9pJNc3FDn_kg268wjX5eyTPqecBYcSqm8Y9ZCSfadmZ08GHW8Q%2526sai%253DAMfl-YTnbvBaXIX3-wcuDwpfeM8gDTFYxikZoAT6ARvboVBoLNdG-D6vYaWlB0-9xuMAJt3aV7-rr85Vz1smiOY_nIqW3ub20r7Ryd4R5uTR0mejlywYvQuM80endeYf-pM%2526sig%253DCg0ArKJSzEgumBcl624CEAE%2526urlfix%253D1%2526adurl%253Dhttps://www.tntdrama.com/nba-on-tnt?cid=Digital-Portfolio_NBA-on-TNT-Restart_2020_CNN-HPTO&source=Digital-Portfolio&campaign=NBA-on-TNT-Restart_2020_CNN-HPTO&sid=1006, line 21676: unreachable code after return statement
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1596119542021	Marionette	INFO	Stopped listening on port 52595
