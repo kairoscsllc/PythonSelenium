@@ -9,7 +9,7 @@ class RuffTests():
 
     def test2():
         driver =webdriver.Firefox()
-        driver.get("https://www.kairoscs.com")
+        driver.get("https://www.cnn..com")
         driver.fullscreen_window()
         driver.refresh()
         driver.quit()
