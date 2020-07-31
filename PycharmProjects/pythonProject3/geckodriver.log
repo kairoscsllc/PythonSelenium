@@ -215,3 +215,39 @@ JavaScript warning: https://ads.jetpackdigital.com/lineitems/48373/0/jpdli.js?u=
 JavaScript warning: https://ads.jetpackdigital.com/lineitems/48373/0/jpdli.js?u=https://adclick.g.doubleclick.net/pcs/click%253Fxai%253DAKAOjssI1kmrRuIxiIIq5C1_G8VD16PmOBUK7vlIJOlIPxTG8e5YZLL4Bvb020wmzE0tXMoWX9St0HIoOHVMXYiFvCw3FQ0LlHNhBrMVUwbVjnbOagUUo0TafUvkIUo2xlryFDK0RmBsi-1pYaDp46Y3d_TZnO8TvpA6ZaKstIdahWMqxqtXL7b55I2G1j1F5aAyVW52BdLjcmjV9pJNc3FDn_kg268wjX5eyTPqecBYcSqm8Y9ZCSfadmZ08GHW8Q%2526sai%253DAMfl-YTnbvBaXIX3-wcuDwpfeM8gDTFYxikZoAT6ARvboVBoLNdG-D6vYaWlB0-9xuMAJt3aV7-rr85Vz1smiOY_nIqW3ub20r7Ryd4R5uTR0mejlywYvQuM80endeYf-pM%2526sig%253DCg0ArKJSzEgumBcl624CEAE%2526urlfix%253D1%2526adurl%253Dhttps://www.tntdrama.com/nba-on-tnt?cid=Digital-Portfolio_NBA-on-TNT-Restart_2020_CNN-HPTO&source=Digital-Portfolio&campaign=NBA-on-TNT-Restart_2020_CNN-HPTO&sid=1006, line 21676: unreachable code after return statement
 JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
 1596119542021	Marionette	INFO	Stopped listening on port 52595
+1596120078564	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/89/c6j4j_v92c98wtl_6wx4g9kc0000gn/T/rust_mozprofile.1Zf8ZfANXo66"
+1596120079351	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596120079650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596120079650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596120079651	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596120079651	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596120081775	Marionette	INFO	Listening on port 56043
+1596120081842	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-global-s-msn-com.akamaized.net/hp-eus/en-us/homepage/_sc/js/d7cb56b9-312711b1/direction=ltr.locales=en-us.themes=start.dpi=resolution1x/97-9a8c47-68ddb2ab/d8-24500b-7879ae33/54-c075ca-d38aa68d/e4-0588d3-68ddb2ab/c3-9ca0cf-5599dabd/7e-a2fde3-e76dbcc3/9e-a7a255-68ddb2ab/a9-ac9b58-68ddb2ab/f1-d0c6aa-cae48929/c7-47822a-f41d9e92/b8-a3b844-f9c98504/30-1fb4c3-60adb462/e7-1874a9-68ddb2ab/63-8c1744-68ddb2ab/77-b71603-243aa040/26-002cda-53568de/12-94937c-3e76eb4d/8f-505610-a7d95428/9e-639daf-68ddb2ab/dd-a09dd5-86e27032/85-0f8009-68ddb2ab?ver=20200725_25555575&fdhead=msnallexpusers,muidflt12cf,muidflt17cf,muidflt47cf,muidflt261cf,muidflt298cf,pneedge1cf,startedge2cf,platagyedge3cf,bingcollabedge3cf,todaytosartbctl,ssptohpsix,platagyhz2cf,article4cf,1s-bing-news,vebudumu04302020,revc-spar-us,revc-view-usc,bbh20200521msn,hp_dep_editbtn,hp_dep_newlbl&csopd=20200728204807&csopdb=20200727170958, line 1: uncaught exception: Confiant: Failed to load https://confiant.msn.com/zHYRKuahC9_zFEv4YagqYRm9_7o/msn/config.js. Messsage: [object Event]
+1596120085258	Marionette	INFO	Stopped listening on port 56043
+JavaScript error: https://static-global-s-msn-com.akamaized.net/hp-eus/en-us/homepage/_sc/js/d7cb56b9-312711b1/direction=ltr.locales=en-us.themes=start.dpi=resolution2x/97-9a8c47-68ddb2ab/d8-24500b-7879ae33/54-c075ca-d38aa68d/e4-0588d3-68ddb2ab/c3-9ca0cf-5599dabd/7e-a2fde3-e76dbcc3/9e-a7a255-68ddb2ab/a9-ac9b58-68ddb2ab/f1-d0c6aa-cae48929/c7-47822a-f41d9e92/b8-a3b844-f9c98504/30-1fb4c3-60adb462/e7-1874a9-68ddb2ab/63-8c1744-68ddb2ab/77-b71603-243aa040/26-002cda-53568de/12-94937c-3e76eb4d/8f-505610-a7d95428/9e-639daf-68ddb2ab/dd-a09dd5-86e27032/85-0f8009-68ddb2ab?ver=20200725_25555575&fdhead=msnallexpusers,muidflt12cf,muidflt17cf,muidflt47cf,muidflt261cf,muidflt298cf,pneedge1cf,startedge2cf,platagyedge3cf,bingcollabedge3cf,todaytosartbctl,ssptohpsix,platagyhz2cf,article4cf,1s-bing-news,vebudumu04302020,revc-spar-us,revc-view-usc,bbh20200521msn,hp_dep_editbtn,hp_dep_newlbl&csopd=20200728204807&csopdb=20200727170958, line 1: uncaught exception: Confiant: Failed to load https://confiant.msn.com/zHYRKuahC9_zFEv4YagqYRm9_7o/msn/config.js. Messsage: [object Event]
+1596131993461	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/89/c6j4j_v92c98wtl_6wx4g9kc0000gn/T/rust_mozprofile.hNv3XdheKDcq"
+1596131994517	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596131994848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596131994848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596131994848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596131994848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596131997612	Marionette	INFO	Listening on port 61463
+1596131997647	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1167:3
+
+1596132023014	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/89/c6j4j_v92c98wtl_6wx4g9kc0000gn/T/rust_mozprofile.K0ietyUpgEcU"
+1596132023779	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596132024101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596132024101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596132024101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596132024101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596132026491	Marionette	INFO	Listening on port 61590
+1596132026579	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://confiant.msn.com/zHYRKuahC9_zFEv4YagqYRm9_7o/msn/config.js, line 109: unreachable code after return statement
+JavaScript warning: https://confiant.msn.com/zHYRKuahC9_zFEv4YagqYRm9_7o/msn/config.js, line 109: unreachable code after return statement
+1596138896125	Marionette	INFO	Stopped listening on port 61463
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1596138898937	Marionette	INFO	Stopped listening on port 61590
