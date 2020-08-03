@@ -251,3 +251,70 @@ JavaScript warning: https://confiant.msn.com/zHYRKuahC9_zFEv4YagqYRm9_7o/msn/con
 JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
 JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
 1596138898937	Marionette	INFO	Stopped listening on port 61590
+1596470885230	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/89/c6j4j_v92c98wtl_6wx4g9kc0000gn/T/rust_mozprofile.9LZ8ZZlzDXQM"
+1596470886736	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596470887007	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596470887007	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596470887007	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596470887008	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596470890027	Marionette	INFO	Listening on port 61989
+1596470890116	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://confiant.msn.com/zHYRKuahC9_zFEv4YagqYRm9_7o/msn/config.js, line 109: unreachable code after return statement
+JavaScript warning: https://confiant.msn.com/zHYRKuahC9_zFEv4YagqYRm9_7o/msn/config.js, line 109: unreachable code after return statement
+1596470895498	Marionette	INFO	Stopped listening on port 61989
+JavaScript warning: https://confiant.msn.com/zHYRKuahC9_zFEv4YagqYRm9_7o/msn/config.js, line 109: unreachable code after return statement
+JavaScript warning: https://confiant.msn.com/zHYRKuahC9_zFEv4YagqYRm9_7o/msn/config.js, line 109: unreachable code after return statement
+1596470911886	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/89/c6j4j_v92c98wtl_6wx4g9kc0000gn/T/rust_mozprofile.UGE0xHKEInoZ"
+1596470912380	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596470912679	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596470912679	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596470912679	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596470912679	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596470914592	Marionette	INFO	Listening on port 62302
+1596470914677	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://confiant.msn.com/zHYRKuahC9_zFEv4YagqYRm9_7o/msn/config.js, line 109: unreachable code after return statement
+JavaScript warning: https://confiant.msn.com/zHYRKuahC9_zFEv4YagqYRm9_7o/msn/config.js, line 109: unreachable code after return statement
+1596470918512	Marionette	INFO	Stopped listening on port 62302
+JavaScript warning: https://confiant.msn.com/zHYRKuahC9_zFEv4YagqYRm9_7o/msn/config.js, line 109: unreachable code after return statement
+JavaScript warning: https://confiant.msn.com/zHYRKuahC9_zFEv4YagqYRm9_7o/msn/config.js, line 109: unreachable code after return statement
+1596470992560	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/89/c6j4j_v92c98wtl_6wx4g9kc0000gn/T/rust_mozprofile.Y8rTkAjt7Glc"
+1596470993374	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596470993651	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596470993651	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596470993651	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596470993651	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596470995607	Marionette	INFO	Listening on port 62914
+1596470995662	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://confiant.msn.com/zHYRKuahC9_zFEv4YagqYRm9_7o/msn/config.js, line 109: unreachable code after return statement
+JavaScript warning: https://confiant.msn.com/zHYRKuahC9_zFEv4YagqYRm9_7o/msn/config.js, line 109: unreachable code after return statement
+1596470999204	Marionette	INFO	Stopped listening on port 62914
+JavaScript error: https://static-global-s-msn-com.akamaized.net/hp-eus/en-us/homepage/_sc/js/d7cb56b9-312711b1/direction=ltr.locales=en-us.themes=start.dpi=resolution2x/97-9a8c47-68ddb2ab/d8-24500b-7879ae33/54-c075ca-d38aa68d/e4-0588d3-68ddb2ab/c3-9ca0cf-5599dabd/7e-a2fde3-e76dbcc3/9e-a7a255-68ddb2ab/a9-ac9b58-68ddb2ab/f1-d0c6aa-cae48929/c7-47822a-f41d9e92/b8-a3b844-f9c98504/30-1fb4c3-60adb462/e7-1874a9-68ddb2ab/63-8c1744-68ddb2ab/77-b71603-243aa040/26-002cda-53568de/12-94937c-3e76eb4d/8f-505610-a7d95428/9e-639daf-68ddb2ab/dd-a09dd5-86e27032/85-0f8009-68ddb2ab?ver=20200725_25555575&fdhead=msnallexpusers,muidflt12cf,muidflt14cf,muidflt17cf,muidflt54cf,muidflt58cf,oneboxdhpcf,pneedge3cf,moneyedge2cf,bingcollabedge2cf,bingcollabedge3cf,moneyhp1cf,ssptohpsix,starthz1cf,starthz3cf,article5cf,msnapp2cf,1s-bing-news,vebudumu04302020,revc-spar-us,revc-view-usc,revc-hp-us,bbh20200521msn,hp_dep_editbtn,hp_dep_newlbl&csopd=20200731154722&csopdb=20200727170958, line 1: uncaught exception: Confiant: Failed to load https://confiant.msn.com/zHYRKuahC9_zFEv4YagqYRm9_7o/msn/config.js. Messsage: [object Event]
+1596471079248	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/89/c6j4j_v92c98wtl_6wx4g9kc0000gn/T/rust_mozprofile.PZnxqZ7fK79v"
+1596471079776	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596471080039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596471080039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596471080039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596471080039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596471082050	Marionette	INFO	Listening on port 63472
+1596471082137	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://confiant.msn.com/zHYRKuahC9_zFEv4YagqYRm9_7o/msn/config.js, line 109: unreachable code after return statement
+JavaScript warning: https://confiant.msn.com/zHYRKuahC9_zFEv4YagqYRm9_7o/msn/config.js, line 109: unreachable code after return statement
+JavaScript warning: https://confiant.msn.com/zHYRKuahC9_zFEv4YagqYRm9_7o/msn/config.js, line 109: unreachable code after return statement
+JavaScript warning: https://confiant.msn.com/zHYRKuahC9_zFEv4YagqYRm9_7o/msn/config.js, line 109: unreachable code after return statement
+1596471089958	Marionette	INFO	Stopped listening on port 63472
+1596471141173	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/89/c6j4j_v92c98wtl_6wx4g9kc0000gn/T/rust_mozprofile.8Zaf2CYsO3dz"
+1596471141761	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596471142045	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596471142046	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596471142046	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596471142046	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596471144132	Marionette	INFO	Listening on port 64014
+1596471144181	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596471191651	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/89/c6j4j_v92c98wtl_6wx4g9kc0000gn/T/rust_mozprofile.noAudkVhoYrE"
+1596471192204	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596471192469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596471192469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596471192469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596471192469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596471194430	Marionette	INFO	Listening on port 64359
+1596471194465	Marionette	WARN	TLS certificate errors will be ignored for this session

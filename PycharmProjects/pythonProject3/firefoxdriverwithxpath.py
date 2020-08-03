@@ -11,7 +11,7 @@ class Testing123:
         time.sleep(10)
 
 
-first = Testing123
+
 Testing123.testcase()
 
 
@@ -34,9 +34,9 @@ Testing123.testcase()
 
 
 
-ff = RuffTests
+#ff1 = Testing123
 #ff.test1()
-ff.test2()
+#ff1.testcase()
 
 
 
