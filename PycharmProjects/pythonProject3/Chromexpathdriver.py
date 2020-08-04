@@ -3,8 +3,8 @@ from selenium.webdriver.common.by import By
 import time
 
 
-class RuffTests():
-    def test1():
+class TestScenarios():
+    def testcase1():
         driver = webdriver.Chrome()
         driver.get("https://www.cnn.com")
         driver.fullscreen_window()
@@ -12,7 +12,7 @@ class RuffTests():
         time.sleep(20)
         driver.quit
 
-    def test2():
+    def testcase2():
         driver = webdriver.Chrome()
         driver.get("https://www.scaledagileframework.com/system-team/")
         driver.find_element(By.XPATH, "/html/body/div[3]/div[1]/div[1]/div[2]/div/nav/div/div[1]/ul/li[6]/a").click()
@@ -20,11 +20,14 @@ class RuffTests():
         driver.quit
 
 
-ff = RuffTests
-ff.test1()
-ff.test2()
+    def testcase3() -> object:
+        driver = webdriver.Chrome()
+        driver.get("https://www.espn.com")
+        driver.find_element(By.XPATH, "//span[@class='link-text'][contains(text(),'Watch')]").click
 
-# https://selenium-python.readthedocs.io/locating-elements.html
 
 
-# 3 +6 hf
+Run = TestScenarios
+# TestScenarios.testcase1()
+# TestScenarios.testcase2()
+TestScenarios.testcase3()
