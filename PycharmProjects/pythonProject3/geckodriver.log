@@ -318,3 +318,10 @@ JavaScript warning: https://confiant.msn.com/zHYRKuahC9_zFEv4YagqYRm9_7o/msn/con
 1596471192469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
 1596471194430	Marionette	INFO	Listening on port 64359
 1596471194465	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1596595838461	Marionette	INFO	Stopped listening on port 64359
+1596595840745	Marionette	INFO	Stopped listening on port 64014
