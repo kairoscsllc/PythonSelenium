@@ -10,3 +10,15 @@ JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151101
 JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151101, line 1: p: OneSignal: This app ID does not have any web platforms enabled. Double check your app ID, or see step 1 on our setup guide (https://goo.gl/01h7fZ).
 JavaScript error: https://fw.adsafeprotected.com/rjss/www.googletagservices.com/455353/46678624/dcm/dcmads.js, line 1047: NS_ERROR_NOT_INITIALIZED: 
 1596654786208	Marionette	INFO	Stopped listening on port 56114
+1596688750590	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/89/c6j4j_v92c98wtl_6wx4g9kc0000gn/T/rust_mozprofile.bg4PVSQXF2r4"
+1596688752241	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1596688752547	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1596688752548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1596688752548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1596688752548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1596688754911	Marionette	INFO	Listening on port 59872
+1596688754948	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151101, line 1: p: OneSignal: This app ID does not have any web platforms enabled. Double check your app ID, or see step 1 on our setup guide (https://goo.gl/01h7fZ).
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151101, line 1: p: OneSignal: This app ID does not have any web platforms enabled. Double check your app ID, or see step 1 on our setup guide (https://goo.gl/01h7fZ).
+1596688774815	Marionette	INFO	Stopped listening on port 59872
