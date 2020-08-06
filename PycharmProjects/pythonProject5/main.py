@@ -7,7 +7,7 @@ class Testing123:
     def testcase():
         driver = webdriver.Chrome()
         driver.get("https://www.cnn.com")
-        driver.get_screenshot_as_file("CNNScreenChrome.png")
+        driver.get_screenshot_as_file("CNNScreenChrome1.png")
         driver.find_element(By.XPATH, "/html/body/div[5]/div/div/header/div/div[1]/div/div[2]/nav/ul/li[9]/a").click()
         time.sleep(10)
         driver.get_screenshot_as_file("CNNScreenChrome2.png")
@@ -18,7 +18,7 @@ class Testing123:
         driver.get("https://www.nfl.com")
         driver.find_element(By.XPATH, "/html/body/div[4]/header/div/nav[1]/ul/li[1]/a/span").click()
         time.sleep(10)
-        driver.get_screenshot_as_file("NFLScreenFirefox.png")
+        driver.get_screenshot_as_file("NFLScreenFirefox1.png")
         driver.quit()
 
     def testcase3():
@@ -26,7 +26,7 @@ class Testing123:
         driver.get("https://www.fox.com")
         driver.fullscreen_window()
         time.sleep(10)
-        driver.get_screenshot_as_file("FOXScreenSafari.png")
+        driver.get_screenshot_as_file("FOXScreenSafari1.png")
         driver.quit()
 
 
