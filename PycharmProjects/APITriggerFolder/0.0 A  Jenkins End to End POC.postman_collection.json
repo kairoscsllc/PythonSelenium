@@ -1,0 +1,382 @@
+{
+	"info": {
+		"_postman_id": "e62eaa15-ccf4-43ef-9819-3060c7018295",
+		"name": "0.0 A  Jenkins End to End POC",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "COVID CURRENT STATE INFO",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "ab6a55ed-4e0a-4568-9c16-b537c3dafcc1",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});",
+							"",
+							"",
+							"pm.test(\"Response time is less than 999ms\", function () {",
+							"    pm.expect(pm.response.responseTime).to.be.below(999);",
+							"});",
+							"",
+							"pm.test(\"State of Alaska is present \", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"AK\");",
+							"});",
+							"",
+							"pm.test(\"State of Alabama is present\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"AL\");",
+							"});",
+							"",
+							"pm.test(\"State of Arkansas is present\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"AR\");",
+							"});",
+							"",
+							"pm.test(\"State of XX222 is present \", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"AS\");",
+							"});",
+							"",
+							"pm.test(\"State of Arizona is present\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"AZ\");",
+							"});",
+							"",
+							"pm.test(\"State of California is present\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"CA\");",
+							"});",
+							"",
+							"pm.test(\"State of Colorado is present \", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"CO\");",
+							"});",
+							"",
+							"pm.test(\"State of Connecticut is present\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"CT\");",
+							"});",
+							"",
+							"pm.test(\"State of Delaware is present\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"DE\");",
+							"});",
+							"",
+							"pm.test(\"District of Columbia is present \", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"DC\");",
+							"});",
+							"",
+							"pm.test(\"State of Florida is present\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"FL\");",
+							"});",
+							"",
+							"pm.test(\"State of Georgia is present\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"GA\");",
+							"});",
+							"",
+							"pm.test(\"State of Hawaii is present \", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"HI\");",
+							"});",
+							"",
+							"pm.test(\"State of Idaho is present\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"ID\");",
+							"});",
+							"",
+							"pm.test(\"State of Illinois is present\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"IL\");",
+							"});",
+							"",
+							"pm.test(\"State of Iowa is present \", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"IA\");",
+							"});",
+							"",
+							"pm.test(\"State of Indiana is present \", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"IN\");",
+							"});",
+							"",
+							"pm.test(\"State of Kansas is present\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"KS\");",
+							"});",
+							"",
+							"pm.test(\"State of Kentucky is present\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"KY\");",
+							"});",
+							"",
+							"pm.test(\"State of Louisiana is present \", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"LA\");",
+							"});",
+							"",
+							"pm.test(\"State of Maine is present\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"ME\");",
+							"});",
+							"",
+							"pm.test(\"State of Maryland is present\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"MD\");",
+							"});",
+							"",
+							"pm.test(\"District of Massachusetts is present \", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"MA\");",
+							"});",
+							"",
+							"pm.test(\"State of Michigan is present\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"MI\");",
+							"});",
+							"",
+							"pm.test(\"State of Minnesota is present\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"MN\");",
+							"});",
+							"",
+							"pm.test(\"State of Missouri is present \", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"MO\");",
+							"});",
+							"",
+							"pm.test(\"State of Montana is present\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"MT\");",
+							"});",
+							"",
+							"pm.test(\"State of Nebraska is present\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"NE\");",
+							"});",
+							"",
+							"pm.test(\"State of New Hampshire is present \", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"NH\");",
+							"});",
+							"",
+							"pm.test(\"State of New Jersey is present\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"NJ\");",
+							"});",
+							"",
+							"pm.test(\"State of New Mexico is present\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"NM\");",
+							"});",
+							"",
+							"pm.test(\"State of Nevada is present \", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"NV\");",
+							"});",
+							"",
+							"pm.test(\"State of New York is present\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"NY\");",
+							"});",
+							"",
+							"pm.test(\"State of North Carolina is present\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"NC\");",
+							"});",
+							"",
+							"pm.test(\"State of Ohio is present\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"OH\");",
+							"});",
+							"",
+							"pm.test(\"District of Oklahoma is present \", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"OK\");",
+							"});",
+							"",
+							"pm.test(\"State of Oregon is present\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"OR\");",
+							"});",
+							"",
+							"pm.test(\"State of Pennsylvania is present\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"PA\");",
+							"});",
+							"",
+							"pm.test(\"State of Rhode Island is present \", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"RI\");",
+							"});",
+							"",
+							"pm.test(\"State of South Carolina is present\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"SC\");",
+							"});",
+							"",
+							"pm.test(\"State of South Dakota is present\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"SD\");",
+							"});",
+							"",
+							"pm.test(\"State of Tennessee is present \", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"TN\");",
+							"});",
+							"",
+							"pm.test(\"State of Texas is present\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"TX\");",
+							"});",
+							"",
+							"pm.test(\"State of Utah is present\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"UT\");",
+							"});",
+							"",
+							"pm.test(\"State of Virginia is present \", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"VA\");",
+							"});",
+							"",
+							"pm.test(\"State of Vermontis present\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"VT\");",
+							"});",
+							"",
+							"pm.test(\"State of Washington is present\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"WA\");",
+							"});",
+							"",
+							"pm.test(\"District of Wisconsin is present \", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"WI\");",
+							"});",
+							"",
+							"pm.test(\"State of West Virginia is present\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"WV\");",
+							"});",
+							"",
+							"pm.test(\"State of Wyoming is present\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"WY\");",
+							"});",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://covidtracking.com/api/states/info",
+					"protocol": "https",
+					"host": [
+						"covidtracking",
+						"com"
+					],
+					"path": [
+						"api",
+						"states",
+						"info"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "ACCUWEATHER CURRENT CONDITIONS",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "6ef11e10-85ad-41f1-bc8e-e5864f732c3c",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});",
+							"",
+							"pm.test(\"Temperature in Fahrenheit\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"F\");",
+							"});",
+							"pm.test(\"Response time is less than 200ms\", function () {",
+							"    pm.expect(pm.response.responseTime).to.be.below(900);",
+							"});",
+							"",
+							"",
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});",
+							"",
+							"",
+							"pm.test(\"What is the weather\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"Rain\");",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://ncus-gadc-api-production.trafficmanager.net/currentconditions/v1/348181.json?apikey=5251445912b143d8b4bee5a741762dd1&language=en-us&details=True",
+					"protocol": "http",
+					"host": [
+						"ncus-gadc-api-production",
+						"trafficmanager",
+						"net"
+					],
+					"path": [
+						"currentconditions",
+						"v1",
+						"348181.json"
+					],
+					"query": [
+						{
+							"key": "apikey",
+							"value": "5251445912b143d8b4bee5a741762dd1"
+						},
+						{
+							"key": "language",
+							"value": "en-us"
+						},
+						{
+							"key": "details",
+							"value": "True"
+						}
+					]
+				},
+				"description": "To see the current conditios of any locations update the location key in the API call. Location key is always the last parameter in the application URL.\nfor example:https://development.glacier.accuweather.com/en/us/cambridge/02139/weather-forecast/329319  in this case 329319 is the location key"
+			},
+			"response": []
+		},
+		{
+			"name": "ACCUWEATHER DAILY FORECAST SUN/MOON",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "671ed509-ebe7-440e-b25d-da222bea980e",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});",
+							"",
+							"pm.test(\"Daily Forecast Text\", function () {",
+							"    pm.expect(pm.response.text()).to.include(\"F\");",
+							"});",
+							"pm.test(\"Response time is less than 200ms\", function () {",
+							"    pm.expect(pm.response.responseTime).to.be.below(900);",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://ncus-gadc-api-production.trafficmanager.net/forecasts/v1/daily/348181.json?language=en-us&details=True&metric=False&dayCount=1",
+					"protocol": "http",
+					"host": [
+						"ncus-gadc-api-production",
+						"trafficmanager",
+						"net"
+					],
+					"path": [
+						"forecasts",
+						"v1",
+						"daily",
+						"348181.json"
+					],
+					"query": [
+						{
+							"key": "language",
+							"value": "en-us"
+						},
+						{
+							"key": "details",
+							"value": "True"
+						},
+						{
+							"key": "metric",
+							"value": "False"
+						},
+						{
+							"key": "dayCount",
+							"value": "1"
+						}
+					]
+				},
+				"description": "we extract out the sun & moon properties from this API call. Always update the location key in the API call."
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
