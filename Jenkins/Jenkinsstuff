@@ -1,0 +1,9 @@
+
+sudo systemctl status jenkins
+sudo systemctl start jenkins
+
+nano /var/lib/jenkins/config.xml file
+
+oadesanya
+M@17
+
